@@ -1,4 +1,4 @@
-# Sales Management Project
+# Sales Management-Dashboard
 ![1](https://github.com/user-attachments/assets/233bf505-9602-43b9-bf59-9081febbb627)
 
 ## Overview
